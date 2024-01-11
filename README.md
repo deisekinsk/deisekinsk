@@ -4,7 +4,9 @@
 
 👩🏾‍💻 I am a technology professional with experience in tech education and multimedia production. I completed my degree in Analysis and Systems Development and my professional internship in December 2023. I am seeking a position as a Junior Software Engineer or Junior Java Back end Developer, preferably remote. I am a mother, Black, from a peripheral area, and an academic. I emphasize my personal skills of curiosity, creativity, focus, and planning. I invite you to check out my progress on the GIT repository: https://github.com/deisekinsk 💡🧠 🚀
 
-How about we engage in a conversation? I have the potential to make a meaningful impact!🎯 #remoteFirst
+How about we engage in a conversation?
+
+I have the potential to make a meaningful impact!🎯 #remoteFirst
 
 ### Recent Certificates:
  - Getting to Know Java Collections - DIO, Jan 2024
@@ -15,6 +17,13 @@ How about we engage in a conversation? I have the potential to make a meaningful
  - Introduction to Modern Software Development - DIO, Mar 2023
 
 ### Technologies
+
+### Contact
+<div>
+<a href="https://www.linkedin.com/in/deise-kinsk-profile" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ <a href = "mailto:kinsk@msn.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/design_dascoisas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 
 <!--
