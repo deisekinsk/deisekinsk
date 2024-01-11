@@ -1,5 +1,5 @@
 
-# `Hello World ✌🏿 🌍`
+# `Hello World ✌🏿🌍`
 
 👩🏾‍💻 I am a technology professional with experience in tech education and multimedia production. I completed my degree in Analysis and Systems Development and my professional internship in December 2023. I am seeking a position as a Junior Software Engineer or Junior Java Back end Developer, preferably remote. I am a mother, Black, from a peripheral area, and an academic. I emphasize my personal skills of curiosity, creativity, focus, and planning. I invite you to check out my full profile on linkedin: [Deise Kinsk Linkedin Profile](https://www.linkedin.com/in/deise-kinsk-profile) 💡🧠 🚀
 
