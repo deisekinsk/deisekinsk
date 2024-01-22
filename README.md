@@ -1,9 +1,9 @@
 
 # `Hello World ✌🏿🌍`
 
-👩🏾‍💻 I am a technology professional with experience in tech education and multimedia production. I completed my degree in Analysis and Systems Development and my professional internship in December 2023. I am seeking a position as a Junior Software Engineer or Junior Java Back end Developer, preferably remote. I am a mother, Black, from a peripheral area, and an academic. I emphasize my personal skills of curiosity, creativity, focus, and planning. I invite you to check out my full profile on linkedin: [Deise Kinsk Profile](https://www.linkedin.com/in/deise-kinsk-profile) 💡🧠 🚀
+👩🏾‍💻 I am a technology professional with experience in tech education and multimedia production. I completed my degree in Systems Analysis and Development as well as a professional internship in December 2023. Currently seeking a position as a Junior Software Engineer or Junior Java Back-end Developer with a focus on remote work. I am a mother of one, Black, from a peripheral community, and a lifelong academic. I would like to highlight a few of my personal skills such as curiosity, creativity, focus, and planning. I invite you to check out my full profile on linkedin: [Deise Kinsk Profile](https://www.linkedin.com/in/deise-kinsk-profile) 💡🧠 🚀
 
-How about we engage in a professional tech conversation?  <a href="https://www.buymeacoffee.com/deisekinsk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="105"></a>
+How about we have a professional tech conversation?  <a href="https://www.buymeacoffee.com/deisekinsk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="105"></a>
 
 I have the potential to make a meaningful impact!🎯 #remoteFirst
 
@@ -25,6 +25,13 @@ I have the potential to make a meaningful impact!🎯 #remoteFirst
  <a href = "mailto:kinsk@msn.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/design_dascoisas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+#### . Status Languages
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deisekinsk&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 
 <!--
