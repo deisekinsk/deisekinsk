@@ -8,6 +8,10 @@ How about we have a professional tech conversation?  <a href="https://www.buymea
 I have the potential to make a meaningful impact!🎯 #remoteFirst
 
 ### . Recent Certificates:
+ - Google Project Management Professional Certificate - Google (5/6 courses), Dec 2024
+ - Master Class Welcome To The AI age - FIAP, Out 2024
+ - Cultural Exchange - England/London, Jun 2024
+ - Vonlutary Mentorship, ICMC, Apr 2024
  - English B2 Upper Intermediate [EF SET Certificate](https://www.efset.org/cert/zbokjq) , Jan 2024 
  - AWS SkillBuilder: AWS Cloud Practitioner Essentials -Amazon Web Services (AWS), Jan 2024
  - Getting to Know Java Collections - DIO, Jan 2024
