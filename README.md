@@ -1,7 +1,11 @@
 
 # `Hello World ✌🏿🌍`
 
-👩🏾‍💻 I am a technology professional with experience in tech education and multimedia production. I completed my degree in Systems Analysis and Development as well as a professional internship in December 2023. Currently seeking a position as a Junior Software Engineer or Junior Java Back-end Developer with a focus on remote work. I am a mother of one, Black, from a peripheral community, and a lifelong academic. I would like to highlight a few of my personal skills such as curiosity, creativity, focus, and planning. I invite you to check out my full profile on linkedin: [Deise Kinsk Profile](https://www.linkedin.com/in/deise-kinsk-profile) 💡🧠 🚀
+👩🏾‍💻 I am a technology professional with experience in tech education and multimedia production. I completed my degree in Systems Analysis and Development as well as a professional internship in December 2023. Currently seeking a position as a Junior Software Engineer or Junior Java Back-end Developer with a focus on remote work.
+
+I can contribute to understanding architectures, transposing business concepts into operational logic and technology.
+
+I am a mother of one, Black, from a peripheral community, and a lifelong academic. I would like to highlight a few of my personal skills such as curiosity, creativity, focus, and planning. I invite you to check out my full profile on linkedin: [Deise Kinsk Profile](https://www.linkedin.com/in/deise-kinsk-profile) 💡🧠 🚀
 
 How about we have a professional tech conversation?  <a href="https://www.buymeacoffee.com/deisekinsk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="105"></a>
 
