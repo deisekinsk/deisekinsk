@@ -1,7 +1,7 @@
 
 # `Hello World ✌🏿🌍`
 
-👩🏾‍💻 I am a technology professional with experience in tech education and multimedia production. I completed my degree in Systems Analysis and Development as well as a professional internship in December 2023. Currently seeking a position as a Junior Software Engineer or Junior Java Back-end Developer with a focus on remote work.
+👩🏾‍💻 I am a technology professional with experience in tech education and multimedia production. I completed my degree in Systems Analysis and Development as well as a professional internship in December 2023. Currently seeking a position as a Software Engineer or Java Back-end Developer with a focus on remote work.
 
 I can contribute to understanding architectures, transposing business concepts into operational logic and technology.
 
