@@ -13,6 +13,7 @@ I have the potential to make a meaningful impact!🎯 #remoteFirst
 
 ### . Recent Certificates:
  - Google Project Management Professional Certificate - Google (5/6 courses), Dec 2024
+ - Java Development Bootcamp - Instituto Matera, Apr 2025
  - Master Class Welcome To The AI age - FIAP, Out 2024
  - Cultural Exchange - England/London, Jun 2024
  - Vonlutary Mentorship, ICMC, Apr 2024
